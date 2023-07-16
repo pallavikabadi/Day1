@@ -1,6 +1,6 @@
 package com.bridgelabz;
 //Write a program to demonstrate static variables, methods, and blocks.
-public class StaticKeyword_6 {
+public class StaticKeyword {
     String EmployeeName;
     static String company="TCS";
 

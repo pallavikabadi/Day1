@@ -3,7 +3,7 @@ package com.bridgelabz;
 import java.util.Scanner;
 //Write a LeapYear.java program
 // that takes a year as input and outputs the Year is a Leap Year or not a Leap Year.
-public class LeapYear_7 {
+public class LeapYear {
     public static void main(String[] args) {
         int year;
         System.out.println("Enter Year:");
